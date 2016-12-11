@@ -10,7 +10,7 @@
     "region": "Pennsylvania",
     "country": "US",
     "code": "16801",
-    "address": "411, Waupelani Street, B210"
+    "address": "411, Waupelani Drive, B210"
   },
   "employment": {
     "history": [
@@ -23,27 +23,27 @@
         "url": "https://www.frontrush.com/web/",
         "keywords": [],
         "highlights": [
-          "Lead two teams (one offshore) and co-ordinated developement activites across time zones",
-          "Lead a long term project migrating a legacy Asp.net application to ruby on rails",
-          "Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquitto,Cassandra, ruby grape API, Reactjs",
-          "Co-ordinated interview process for hiring  Software Engineers",
+          "Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquitto,Cassandra, Ruby Grape API, Reactjs",
+          "Coordinated interview process for hiring  Software Engineers",
           "Worked with the Cheif Product Officer on various third party integrations to the product ecosystem",
-          "Worked with CPO and VP on Strategic and Arcitectural planning, Implimenation of new technology, Designing and implementing System solutions to meet Product road map"
+          "Leading two teams (one offshore) and co-ordinated developement activites across time zones",
+          "Leading a long term project migrating a legacy Asp.net application to ruby on rails",
+          "Working with CPO and VP on strategic and architectural planning, implementation of new technology, designing and implementing system solutions to meet product road map"
         ]
       },
       {
         "position": "Software Engineer and  Architect",
         "employer": "Front Rush LLC",
-        "summary": "Full Stack Engineer",
+        "summary": "Full-Stack Engineer",
         "start": "2013-08-19",
         "end": "2016-05-15",
         "url": "https://www.frontrush.com/web/",
         "keywords": [],
         "highlights": [
-          "Built two data driven web applications using ruby on rails",
-          "Helped scale rails applications from one to one hundred thousand users",
+          "Built two data driven web applications using ruby on rails/postgres/redis/solr",
+          "Helped scale rails applications from zero to one hundred thousand users",
           "Built an Oauth 2.0 authentication service",
-          "Working closely with the Chief Product Officer, Architectecd a Product ecosystem with three produtcs connected through APIs"
+          "Working closely with the Chief Product Officer, architected a product ecosystem with three produtcs connected through APIs"
         ]
       },
       {

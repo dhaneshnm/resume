@@ -1,8 +1,8 @@
 basics:
   name: 'Dhanesh Neela Mana'
-  summary: 'I am a full stack Engineer, passionate about building reliable Software Systems while enabling my collegues to full fill thier roles effectively. I have architected and built an instant messaging service using MQTT;Scalable REST APIs;Data driven web applications;Authentication services using OAuth 2.0 specifications'
+  summary: 'I am a full-stack engineer, passionate about building reliable software systems while enabling my collegues to fulfill their roles effectively. I have architected and built an instant messaging service using MQTT;Scalable REST APIs;Data driven web applications;Authentication services using OAuth 2.0 specifications'
   location:
-    address: '411, Waupelani Street, B210'
+    address: '411, Waupelani Drive, B210'
     postalCode: '16801'
     city: 'State College'
     countryCode: US
@@ -24,24 +24,24 @@ work:
     startDate: '2016-05-15'
     summary: '60%  Senior Software Engineer, 20% Chief Architect, 20% Engineering Manager'
     highlights:
-      - 'Lead two teams (one offshore) and co-ordinated developement activites across time zones'
-      - 'Lead a long term project migrating a legacy Asp.net application to ruby on rails'
-      - 'Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquitto,Cassandra, ruby grape API, Reactjs'
-      - 'Co-ordinated interview process for hiring  Software Engineers'
+      - 'Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquitto,Cassandra, Ruby Grape API, Reactjs'
+      - 'Coordinated interview process for hiring  Software Engineers'
       - 'Worked with the Cheif Product Officer on various third party integrations to the product ecosystem'
-      - 'Worked with CPO and VP on Strategic and Arcitectural planning, Implimenation of new technology, Designing and implementing System solutions to meet Product road map'
+      - 'Leading two teams (one offshore) and co-ordinated developement activites across time zones'
+      - 'Leading a long term project migrating a legacy Asp.net application to ruby on rails'
+      - 'Working with CPO and VP on strategic and architectural planning, implementation of new technology, designing and implementing system solutions to meet product road map'
   -
     company: 'Front Rush LLC'
     website: 'https://www.frontrush.com/web/'
     position: 'Software Engineer and  Architect'
     startDate: '2013-08-19'
     endDate: '2016-05-15'
-    summary: 'Full Stack Engineer'
+    summary: 'Full-Stack Engineer'
     highlights:
-      - 'Built two data driven web applications using ruby on rails'
-      - 'Helped scale rails applications from one to one hundred thousand users'
+      - 'Built two data driven web applications using ruby on rails/postgres/redis/solr'
+      - 'Helped scale rails applications from zero to one hundred thousand users'
       - 'Built an Oauth 2.0 authentication service'
-      - 'Working closely with the Chief Product Officer, Architectecd a Product ecosystem with three produtcs connected through APIs'
+      - 'Working closely with the Chief Product Officer, architected a product ecosystem with three produtcs connected through APIs'
   -
     company: 'Tata Consultancy Services'
     website: 'http://www.tcs.com/Pages/default.aspx'
