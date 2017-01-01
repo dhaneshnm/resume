@@ -1,138 +1,120 @@
 {
-  "name": "Dhanesh Neela Mana",
-  "info": {},
-  "meta": {
-    "format": "FRESH@0.6.0",
-    "version": "0.1.0"
-  },
-  "location": {
-    "city": "State College",
-    "region": "Pennsylvania",
-    "country": "US",
-    "code": "16801",
-    "address": "411, Waupelani Drive, B210"
-  },
-  "employment": {
-    "history": [
+  "basics": {
+    "name": "Dhanesh Neela Mana",
+    "location": {
+      "address": "411, Waupelani Drive, B210",
+      "postalCode": "16801",
+      "city": "State College",
+      "countryCode": "US",
+      "region": "Pennsylvania"
+    },
+    "profiles": [
       {
-        "position": "Chief Technology Officer",
-        "employer": "Front Rush LLC",
-        "summary": "60%  Senior Software Engineer, 20% Chief Architect, 20% Engineering Manager",
-        "current": true,
-        "start": "2016-05-15",
-        "url": "https://www.frontrush.com/web/",
-        "keywords": [],
-        "highlights": [
-          "Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquitto,Cassandra, Ruby Grape API, Reactjs",
-          "Coordinated interview process for hiring  Software Engineers",
-          "Worked with the Cheif Product Officer on various third party integrations to the product ecosystem",
-          "Leading two teams (one offshore) and co-ordinated developement activites across time zones",
-          "Leading a long term project migrating a legacy Asp.net application to ruby on rails",
-          "Working with CPO and VP on strategic and architectural planning, implementation of new technology, designing and implementing system solutions to meet product road map"
-        ]
+        "network": "Twitter",
+        "username": "dhaneshnm",
+        "url": "https://twitter.com/dhaneshnm"
       },
       {
-        "position": "Software Engineer and  Architect",
-        "employer": "Front Rush LLC",
-        "summary": "Full-Stack Engineer",
-        "start": "2013-08-19",
-        "end": "2016-05-15",
-        "url": "https://www.frontrush.com/web/",
-        "keywords": [],
-        "highlights": [
-          "Built two data driven web applications using ruby on rails/postgres/redis/solr",
-          "Helped scale rails applications from zero to one hundred thousand users",
-          "Built an Oauth 2.0 authentication service",
-          "Working closely with the Chief Product Officer, architected a product ecosystem with three produtcs connected through APIs"
-        ]
-      },
-      {
-        "position": "Software Engineer",
-        "employer": "Tata Consultancy Services",
-        "summary": "Full stack Engineer",
-        "start": "2008-12-28",
-        "end": "2011-08-11",
-        "url": "http://www.tcs.com/Pages/default.aspx",
-        "keywords": [],
-        "highlights": [
-          "Designed, Developed and Maintained web applications on C#/Asp.net 2.0 and 4.0",
-          "Designed an automated testing suite based on WatiN testing platform"
-        ]
+        "network": "Github",
+        "username": "dhaneshnm",
+        "url": "https://github.com/dhaneshnm"
       }
     ]
   },
-  "education": {
-    "level": "",
-    "history": [
-      {
-        "institution": "Drexel University",
-        "start": "2011-09-13",
-        "end": "2013-06-21",
-        "grade": "3.2",
-        "curriculum": [],
-        "summary": "",
-        "area": "Software Engineering",
-        "studyType": "Master's"
-      },
-      {
-        "institution": "Kerala University",
-        "start": "2004-09-11",
-        "end": "2008-06-24",
-        "grade": "3.5",
-        "curriculum": [],
-        "summary": "",
-        "area": "Computer Science",
-        "studyType": "Bachelor's"
-      }
-    ]
-  },
-  "skills": {
-    "sets": [
-      {
-        "name": "Web Development",
-        "level": "Master",
-        "skills": [
-          "HTML",
-          "CSS",
-          "Javascript/JQuery/Reactjs",
-          "Ruby",
-          "Ruby on Rails",
-          "C#",
-          "Asp.net 2.0 to 4.5",
-          "SQL",
-          "MS SQL SERVER",
-          "Postgres",
-          "Cassandra",
-          "Solr",
-          "Mosquitto",
-          "MQTT",
-          "Redis"
-        ]
-      },
-      {
-        "name": "Software Methodologies",
-        "skills": [
-          "Kanban"
-        ]
-      }
-    ]
-  },
-  "social": [
+  "work": [
     {
-      "label": "Twitter",
-      "network": "Twitter",
-      "url": "https://twitter.com/dhaneshnm",
-      "user": "dhaneshnm"
+      "company": "Front Rush LLC",
+      "website": "https://www.frontrush.com/web/",
+      "position": "Chief Technology Officer",
+      "startDate": "2016-05-15",
+      "summary": "60%  Senior Software Engineer, 20% Chief Architect, 20% Engineering Manager",
+      "highlights": [
+        "Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquitto,Cassandra, Ruby Grape API, Reactjs",
+        "Coordinated interview process for hiring  Software Engineers",
+        "Worked with the Cheif Product Officer on various third party integrations to the product ecosystem",
+        "Leading two teams (one offshore) and co-ordinated developement activites across time zones",
+        "Leading a long term project migrating a legacy Asp.net application to ruby on rails",
+        "Working with CPO and VP on strategic and architectural planning, implementation of new technology, designing and implementing system solutions to meet product road map"
+      ]
     },
     {
-      "label": "Github",
-      "network": "Github",
-      "url": "https://github.com/dhaneshnm",
-      "user": "dhaneshnm"
+      "company": "Front Rush LLC",
+      "website": "https://www.frontrush.com/web/",
+      "position": "Software Engineer and  Architect",
+      "startDate": "2013-08-19",
+      "endDate": "2016-05-15",
+      "summary": "Full-Stack Engineer",
+      "highlights": [
+        "Built two data driven web applications using ruby on rails/postgres/redis/solr",
+        "Helped scale rails applications from zero to one hundred thousand users",
+        "Built an Oauth 2.0 authentication service",
+        "Working closely with the Chief Product Officer, architected a product ecosystem with three products connected through APIs"
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "website": "http://www.tcs.com/Pages/default.aspx",
+      "position": "Software Engineer",
+      "startDate": "2008-12-28",
+      "endDate": "2011-08-11",
+      "summary": "Full stack Engineer",
+      "highlights": [
+        "Designed, Developed and Maintained web applications on C#/Asp.net 2.0 and 4.0",
+        "Designed an automated testing suite based on WatiN testing platform"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Drexel University",
+      "gpa": "3.2",
+      "courses": [],
+      "startDate": "2011-09-13",
+      "endDate": "2013-06-21",
+      "area": "Software Engineering",
+      "studyType": "Master's"
+    },
+    {
+      "institution": "Kerala University",
+      "gpa": "3.5",
+      "courses": [],
+      "startDate": "2004-09-11",
+      "endDate": "2008-06-24",
+      "area": "Computer Science",
+      "studyType": "Bachelor's"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript/JQuery/Reactjs",
+        "Ruby",
+        "Ruby on Rails",
+        "C#",
+        "Asp.net 2.0 to 4.5",
+        "SQL",
+        "MS SQL SERVER",
+        "Postgres",
+        "Cassandra",
+        "Solr",
+        "Mosquitto",
+        "MQTT",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Software Methodologies",
+      "keywords": [
+        "Kanban"
+      ]
     }
   ],
   "interests": [],
-  "testimonials": 0,
+  "references": 0,
   "languages": [
     {
       "language": "English",
