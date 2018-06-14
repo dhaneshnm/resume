@@ -1,41 +1,54 @@
 {
   "basics": {
     "name": "Dhanesh Neela Mana",
+    "email": "dhanesh.n.m19@gmail.com",
     "summary":"I am a full-stack engineer, passionate about building reliable software systems while enabling my collegues to fulfill their roles effectively. I have architected and built an instant messaging service using MQTT;Scalable REST APIs;Data driven web applications;Authentication services using OAuth 2.0 specifications",
     "location": {
-      "address": "411, Waupelani Drive, B210",
-      "postalCode": "16801",
-      "city": "State College",
-      "countryCode": "US",
-      "region": "Pennsylvania"
+      "address": "",
+      "postalCode": "07306",
+      "city": "Jersey City",
+      "countryCode": "United States",
+      "region": "New Jersey"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "dhaneshnm",
-        "url": "https://twitter.com/dhaneshnm"
-      },
       {
         "network": "Github",
         "username": "dhaneshnm",
         "url": "https://github.com/dhaneshnm"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "dhanesh-neelamana",
+        "url": "https://www.linkedin.com/in/dhanesh-neelamana-ab63a01a"
       }
     ]
   },
   "work": [
     {
+      "company": "Amazon",
+      "website": "https://www.amazon.com/",
+      "position": "Software Development Engineer",
+      "startDate": "2017-07-11",
+      "summary": "I have build scalable web applications with ReactJS and Java Spring frame work",
+      "highlights": [
+        "Mentor for summer interns for summer of 2018.",
+        "Built a set of features in ReactJS/Spring API for an internal analytics tool."
+      ]
+    },
+    {
       "company": "Front Rush LLC",
       "website": "https://www.frontrush.com/web/",
       "position": "Chief Technology Officer",
       "startDate": "2016-05-15",
+      "endDate": "2017-06-30",
       "summary": "60%  Senior Software Engineer, 20% Chief Architect, 20% Engineering Manager",
       "highlights": [
-        "Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquitto,Cassandra, Ruby Grape API, Reactjs",
-        "Coordinated interview process for hiring  Software Engineers",
-        "Worked with the Cheif Product Officer on various third party integrations to the product ecosystem",
-        "Leading two teams (one offshore) and co-ordinated developement activites across time zones",
-        "Leading a long term project migrating a legacy Asp.net application to ruby on rails",
-        "Working with CPO and VP on strategic and architectural planning, implementation of new technology, designing and implementing system solutions to meet product road map"
+        "Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquitto,Cassandra, Ruby Grape API, Reactjs.",
+        "Coordinated interview process for hiring  Software Engineers.",
+        "Worked with the Cheif Product Officer on various third party integrations to the product ecosystem.",
+        "Leading two teams (one offshore) and co-ordinated developement activites across time zones.",
+        "Leading a long term project migrating a legacy Asp.net application to ruby on rails.",
+        "Working with CPO and VP on strategic and architectural planning, implementation of new technology, designing and implementing system solutions to meet product road map."
       ]
     },
     {
@@ -92,11 +105,12 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript/JQuery/Reactjs",
+        "Javascript/Reactjs/Redux",
         "Ruby",
         "Ruby on Rails",
         "C#",
         "Asp.net 2.0 to 4.5",
+        "Java",
         "SQL",
         "MS SQL SERVER",
         "Postgres",
@@ -110,7 +124,8 @@
     {
       "name": "Software Methodologies",
       "keywords": [
-        "Kanban"
+        "Kanban",
+        "Scrum"
       ]
     }
   ],
