@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsonresume-theme-developpez": "^1.1.3",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-print-flexbox": "^1.0.0",
+    "resume-cli": "^3.0.4"
+  }
+}
