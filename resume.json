@@ -2,13 +2,13 @@
   "basics": {
     "name": "Dhanesh Neela Mana",
     "email": "dhanesh.n.m19@gmail.com",
-    "summary":"I am a full-stack engineer, passionate about building reliable software systems while enabling my collegues to fulfill their roles effectively. I have architected and built an instant messaging service using MQTT;Scalable REST APIs;Data driven web applications;Authentication services using OAuth 2.0 specifications",
+    "summary": "I am a full-stack engineer, passionate about building reliable software systems while enabling my collegues to fulfill their roles effectively. I have architected and built an instant messaging service using MQTT;Scalable REST APIs;Data driven web applications;Authentication services using OAuth 2.0 specifications",
     "location": {
       "address": "",
-      "postalCode": "07306",
-      "city": "Jersey City",
-      "countryCode": "United States",
-      "region": "New Jersey"
+      "postalCode": "1022",
+      "city": "Lausanne",
+      "countryCode": "Switzerland",
+      "region": "Vaud"
     },
     "profiles": [
       {
@@ -25,10 +25,23 @@
   },
   "work": [
     {
-      "company": "Amazon",
+      "company": "Blue Brain Project(EPF), Geneva, Switzerland",
+      "website": "https://www.epfl.ch/research/domains/bluebrain/",
+      "position": "Teach Lead (Front End)",
+      "startDate": "2019-July-01",
+      "summary": "Web based productivity tools for scientist working in Neuroscience/Brain Research.",
+      "highlights": [
+        "Currently leading the front end team",
+        "Designed and developed many small(sub) applications to meet various data access and visualization needs for scientist.",
+        "Used Typescript, React, Sparql, JSON-LD and Elastic search"
+      ]
+    },
+    {
+      "company": "Amazon, New York, United States",
       "website": "https://www.amazon.com/",
       "position": "Software Development Engineer",
       "startDate": "2017-07-11",
+      "endDate": "2019-07-30",
       "summary": "I have build scalable web applications with ReactJS and Java Spring frame work",
       "highlights": [
         "Mentor for summer interns for summer of 2018.",
@@ -36,23 +49,23 @@
       ]
     },
     {
-      "company": "Front Rush LLC",
+      "company": "Front Rush LLC, Yardly, United States",
       "website": "https://www.frontrush.com/web/",
       "position": "Chief Technology Officer",
       "startDate": "2016-05-15",
       "endDate": "2017-06-30",
       "summary": "60%  Senior Software Engineer, 20% Chief Architect, 20% Engineering Manager",
       "highlights": [
-        "Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquitto,Cassandra, Ruby Grape API, Reactjs.",
+        "Architected a messaging service that connects user base of one product with the user base of another product. Used MQTT/Mosquito,Cassandra, Ruby Grape API, Reactjs.",
         "Coordinated interview process for hiring  Software Engineers.",
-        "Worked with the Cheif Product Officer on various third party integrations to the product ecosystem.",
-        "Leading two teams (one offshore) and co-ordinated developement activites across time zones.",
-        "Leading a long term project migrating a legacy Asp.net application to ruby on rails.",
+        "Worked with the Chef Product Officer on various third party integrations to the product ecosystem.",
+        "Lead two teams (one offshore) and coordinated development activities across time zones.",
+        "Lead a long term project migrating a legacy Asp.net application to ruby on rails.",
         "Working with CPO and VP on strategic and architectural planning, implementation of new technology, designing and implementing system solutions to meet product road map."
       ]
     },
     {
-      "company": "Front Rush LLC",
+      "company": "Front Rush LLC, Yardly, United States",
       "website": "https://www.frontrush.com/web/",
       "position": "Software Engineer and  Architect",
       "startDate": "2013-08-19",
@@ -66,7 +79,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Tata Consultancy Services, Chennai, India",
       "website": "http://www.tcs.com/Pages/default.aspx",
       "position": "Software Engineer",
       "startDate": "2008-12-28",
@@ -80,7 +93,7 @@
   ],
   "education": [
     {
-      "institution": "Drexel University",
+      "institution": "Drexel University, Philadelphia, United States",
       "gpa": "3.2",
       "courses": [],
       "startDate": "2011-09-13",
@@ -89,7 +102,7 @@
       "studyType": "Master's"
     },
     {
-      "institution": "Kerala University",
+      "institution": "Kerala University, Thiruvananthapuram, India",
       "gpa": "3.5",
       "courses": [],
       "startDate": "2004-09-11",
@@ -105,6 +118,7 @@
       "keywords": [
         "HTML",
         "CSS",
+        "Typescript",
         "Javascript/Reactjs/Redux",
         "Ruby",
         "Ruby on Rails",
@@ -123,10 +137,7 @@
     },
     {
       "name": "Software Methodologies",
-      "keywords": [
-        "Kanban",
-        "Scrum"
-      ]
+      "keywords": ["Kanban", "Scrum"]
     }
   ],
   "interests": [],
